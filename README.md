@@ -1,6 +1,6 @@
 # Netflix_Sql_projec
 
-https://github.com/Adarsh0722/Netflix_Sql_project/blob/main/logo.png
+![Netflix Logo](https://github.com/Adarsh0722/Netflix_Sql_project/blob/main/logo.png)
 
 Hey there! 👋
 This project is a hands-on SQL analysis of Netflix's content data using PostgreSQL. I tackled 15 real-world business questions that explore insights like content types, top genres, directors, countries, and trends over the years.
