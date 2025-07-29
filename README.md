@@ -23,20 +23,20 @@ The data for this project is sourced from the Kaggle dataset:
 🧠 Business Problems Solved
 Here's a quick look at some problems I tackled:
 
-Count of Movies vs TV Shows
-Most common rating for each content type
-All movies released in 2020
-Top 5 countries with the most content
-Longest movie on Netflix
-Content added in the last 5 years
-Shows/movies by Rajiv Chilaka
-TV shows with more than 5 seasons
-Content count by genre
-Top 5 years India released the most content
-Documentary movies
-Content without listed directors
-Movies featuring Salman Khan in the last 10 years
-Top 10 actors in Indian movies
-Classify content as “Good” or “Bad” based on violent descriptions
+- Count of Movies vs TV Shows.
+- Most common rating for each content type.
+- All movies released in 2020.
+- Top 5 countries with the most content.
+- Longest movie on Netflix.
+- Content added in the last 5 years.
+- Shows/movies by Rajiv Chilaka.
+- TV shows with more than 5 seasons.
+- Content count by genre.
+- Top 5 years India released the most content.
+- Documentary movies.
+- Content without listed directors.
+- Movies featuring Salman Khan in the last 10 years.
+- Top 10 actors in Indian movies.
+- Classify content as “Good” or “Bad” based on violent descriptions.
 
 
